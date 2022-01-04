@@ -6,6 +6,7 @@
   "apps": [
     {
       "title": "CSDL MT",
+      "desc": "PROD: Hệ thống PRODUCTION Quản lý CSDL Môi Trường - Bộ Tài nguyên và Môi trường",
       "URL": "https://moitruongquocgia.ceid.gov.vn"
     }
   ]
