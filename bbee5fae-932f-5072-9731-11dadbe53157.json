@@ -1,6 +1,6 @@
 {
   "username": "binhth",
-  "role": [],
+  "role": [ "admin" ],
   "org": [],
   "orgSub": [],
   "apps": [
