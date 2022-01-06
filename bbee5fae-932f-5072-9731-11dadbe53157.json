@@ -11,6 +11,8 @@
       "URL": "https://moitruongquocgia.ceid.gov.vn",
       "DB": "CSDL_MT",
       "SITE": "csdl_mt",
+      "VISIBILITY": "guest",
+      "PAGE": "trang_chu",
       "key": "=nVlSlggQmluaHRoIDEyNTQ1ODEyOSBWdWVqcyBWdWV0aWZ5anMV"
     },
     {
