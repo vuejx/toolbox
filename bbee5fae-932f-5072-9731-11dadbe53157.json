@@ -10,7 +10,8 @@
       "desc": "PROD: Hệ thống PRODUCTION Quản lý CSDL Môi Trường - Bộ Tài nguyên và Môi trường",
       "URL": "https://moitruongquocgia.ceid.gov.vn",
       "DB": "CSDL_MT",
-      "SITE": "csdl_mt"
+      "SITE": "csdl_mt",
+      "key": "=nVlSlggQmluaHRoIDEyNTQ1ODEyOSBWdWVqcyBWdWV0aWZ5anMV"
     },
     {
       "type": "PROD",
@@ -18,7 +19,8 @@
       "desc": "PROD: Hệ thống Quản lý điều hành - Bộ Tài nguyên và Môi trường",
       "URL": "https://dieuhanh.ceid.gov.vn",
       "DB": "CSDL_TCMT",
-      "SITE": "tcmt"
+      "SITE": "tcmt",
+      "key": "=nVlSlggQmluaHRoIDEyNTQ1ODEyOSBWdWVqcyBWdWV0aWZ5anMV"
     },
     {
       "type": "QA",
@@ -26,7 +28,8 @@
       "desc": "QA: Hệ thống QA thu thập - Bộ Tài nguyên và Môi trường",
       "URL": "http://thuthapdulieu.ceid.gov.vn",
       "DB": "CSDL_THUTHAP",
-      "SITE": "csdl_thuthap"
+      "SITE": "csdl_thuthap",
+      "key": "=nVlSlggQmluaHRoIDEyNTQ1ODEyOSBWdWVqcyBWdWV0aWZ5anMV"
     }
   ]
 }
